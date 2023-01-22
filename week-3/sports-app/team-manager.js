@@ -5,7 +5,7 @@
 // ; Modified By: Yakut Ahmedin
 // ; Description: Assignment 3 – Node’s Module System
 // ;===========================================
-
+"use strict";
 const Team = require('./team');
 
 // Create an array named teams that contains five team objects, using the Team class

@@ -1,3 +1,4 @@
+"use strict";
 const TeamManager = require("./team-manager");
 
 // iterate over the array and display each team object using the displayTeam() function from the team-manager.js file.
